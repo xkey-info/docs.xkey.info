@@ -1,9 +1,10 @@
-remote_theme: just-the-docs/just-the-docs
-plugins:
-- jekyll-remote-theme
-
 title: XKeyScore # :/
 description: API documentation for xkey.info # desc for embeds
 url: "https://xkey.info" # our url
 repository: xkey-info/docs.xkey.info # for github-metadata
 footer_content: "Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>" # License shit :3
+color_scheme: dark
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+- jekyll-remote-theme
